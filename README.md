@@ -2,6 +2,57 @@
 
 Link to the live site https://ndouyon.github.io/West-Baltimore-Resource-Locator/
 
+<!doctype html>
+<HTML>
+<HEAD>
+<TITLE> Resource Locator for West Baltimoreans </TITLE>
+
+
+<style>
+body {background-color: off white;}
+h1   {background-color: black; color: #1BA59C;}
+Footer {background-color: black; color: white;}
+p    {color: black;}
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+
+</head>
+
 <body>
 
 <div class="container">
@@ -19,9 +70,9 @@ Link to the live site https://ndouyon.github.io/West-Baltimore-Resource-Locator/
 
 
  <ul>
-    <li> <h3><a href="https://drive.google.com/file/d/0B6aPUI0RO4tNT1FIUnNPOE1NMVk/view?usp=sharing">Poppleton</a></li> </h3>
-    <li> <h3><a href="file:///Users/ndouyon/Desktop/SandtownWinchesterMap.html">Sandtown-Winchester</a></li> </h3>
-    <li> <h3><a href="file:///Users/ndouyon/Desktop/UptonMap.html">Upton</a></li> </h3>
+    <li> <h3><a href="file:///Users/ndouyon/Desktop/PoppletonMap.html">Poppleton</a></li> </h3>
+    <li> <h3><a href="file:///Users/ndouyon/Desktop/MPH%20Project/SandtownWinchesterMap.html">Sandtown-Winchester</a></li> </h3>
+    <li> <h3><a href="file:///Users/ndouyon/Desktop/MPH%20Project/UptonMap.html">Upton</a></li> </h3>
   </ul>
 
 
@@ -30,8 +81,6 @@ Link to the live site https://ndouyon.github.io/West-Baltimore-Resource-Locator/
 
 
 <article>
-<br>
-<br>
 <br>
 <br>
 <p style="text-align:center;">These resources are all public health related and are intended to aide in prevention and treatment of illness and disease. <br> 
@@ -44,7 +93,8 @@ As the population continues to grow and the hunt for limited resources increases
 </p>
 <br>
 <br>
-<img src="https://drive.google.com/file/d/0B6aPUI0RO4tNVmg5X0pqZFNMb2s/view?usp=sharing"  style="width:250px;height:200px;"><br>
+<img src="key.jpeg"  style="width:250px;height:200px;"><br>
+<br>
 
 <br>
 * Filters and icons are available to show resources by category <br>
